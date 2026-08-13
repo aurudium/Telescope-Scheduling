@@ -7,3 +7,7 @@ Source code is found in TheProgram folder.
 Maker file is a simple generator to make files to test the main program on. It will ask for the number of "tickets" to generate. Before setting random values and names for each request.
 
 Test files are sample files that the program can run on. From the range of 100-12k (12,000)
+
+
+Disclamer: 
+This was a group project done in colaberation with classmates. AI was used in making of the individual algorithms. My own contribution was with the main file and ticket generation. In which AI was NOT used in the making of the code I personally worked on.
