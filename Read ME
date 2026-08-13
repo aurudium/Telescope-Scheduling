@@ -1,0 +1,9 @@
+Source code is found in TheProgram folder. 
+-Main contains the driver and neccessary functions for the overall program
+-greedy; contains the code for running a greedy algorithm solution for scheduling
+-topdown; contains the code for a top down algorithm solution for scheduling
+-ticket; contains the attributes of a single ticket. Meant to represent a single request to use the telescope. These requests will be sorted by the algorithm to try and find the best schedule for a made up scientific value.
+
+Maker file is a simple generator to make files to test the main program on. It will ask for the number of "tickets" to generate. Before setting random values and names for each request.
+
+Test files are sample files that the program can run on. From the range of 100-12k (12,000)
